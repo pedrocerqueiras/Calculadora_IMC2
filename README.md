@@ -5,7 +5,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/result/Screenshot_1.png" width="260">&emsp;<img src="/result/Screenshot_2.png" width="260">&emsp;<img src="/result/Screenshot_3.png" width="260">
+<img src="/result/image.1.png" width="260">&emsp;<img src="/result/Screenshot_2.png" width="260">&emsp;<img src="/result/Screenshot_3.png" width="260">
 
 ## Tecnologias
 * Kotlin
@@ -27,13 +27,13 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 - Melhorar estilização do app
 
 ## Author
-Roque Buarque Junior (follow me on [Twitter](https://twitter.com/roquebuarque))
+Pedro Silva Cerqueira (follow me on [LinkedIn](https://www.linkedin.com/in/pedrocerqueiras))
 
 ## License
 ```
 The MIT License (MIT)
 
-Copyright (c) 2021 Roque Buarque Junior
+Copyright (c) 2023 Pedro Silva Cerqueira
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
