@@ -6,24 +6,29 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-    
-    <EditText
-        android:id="@+id/edtPeso"
-        android:maxLength="6"
-        android:inputType="numberDecimal"
-        android:hint="Digite seu Peso (quilogramas)"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
 
     <EditText
-        android:id="@+id/edtAltura"
-        android:maxLength="6"
+        android:id="@+id/edtPeso"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:height="50dp"
+        android:hint="Digite seu Peso (quilogramas)"
         android:inputType="numberDecimal"
+        android:maxLength="6"
+        android:minHeight="48dp" />
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/edtAltura"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/edtPeso"
-        android:layout_marginTop="16dp"
-        android:hint="Digite sua Altura (metros)"/>
+        android:layout_marginTop="50dp"
+        android:height="50dp"
+        android:hint="Digite sua Altura (metros)"
+        android:inputType="phone"
+        android:maxLength="4"
+        android:minHeight="48dp" />
 
 
     <Button
